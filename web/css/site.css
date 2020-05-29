@@ -2,6 +2,10 @@ html,
 body {
     height: 100%;
 }
+.strike{
+    text-decoration:line-through;
+    background: red;
+}
 
 .wrap {
     min-height: 100%;
